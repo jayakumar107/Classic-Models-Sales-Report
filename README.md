@@ -7,22 +7,16 @@ This project uses the Classic Models sample database to explore sales, customers
 The Classic Models dataset represents a fictional company that sells scale model cars, motorcycles, planes, ships, trains, and vintage vehicles. It contains information about:
 
 - Customers
-
 - Employees
-- 
 - Offices
-- 
 - Orders
-- 
 - Order Details
-- 
 - Payments
-- 
 - Products
-- 
 - Product Lines
 
 3. Product Objective
+
 
 - Analyze sales trends and revenue
 
